@@ -12,6 +12,8 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
+favicon:
+  - { rel: "shortcut icon", href: "convergence.png", type: "image/png" }
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
