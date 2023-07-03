@@ -17,8 +17,7 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-'JSP ou cest'
+description: JSP ou cest
 page_title:
   "Mon wiki"
 links:
