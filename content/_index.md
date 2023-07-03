@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: "Accueil"
 enableToc: false
 ---
 <center> <h1 style="font-size:40px";> Bienvenue dans mon propre wiki : <br> Léonardopédia ! </h1> </center>
